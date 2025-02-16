@@ -2,8 +2,8 @@ let heroi
 let xp
 let nivel
 
-heroi = "PAN"
-xp = 95000
+heroi = "Morgana"
+xp = 5600
 
 
 
