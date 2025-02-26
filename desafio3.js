@@ -22,7 +22,7 @@ class heroi {
 
 }
 
-let heroi1 = new heroi("Felipe", 22 , "Mago")
+let heroi1 = new heroi("Felipe", 22 , "Guerreiro")
 let heroi2 = new heroi("Maggi", 102 , "Monge")
 let heroi3 = new heroi("Naruto", 15 , "Ninja")
 heroi1.atacar()

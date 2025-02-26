@@ -1,3 +1,4 @@
+// Declarando variaveis
 let heroi
 let xp
 let nivel

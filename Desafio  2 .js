@@ -6,7 +6,7 @@ function calcularVitoria (vitoria , derrota){
 }
 let nivel
 // chamando a função calcular vitoria
-calcularVitoria(115,21)
+calcularVitoria(150,21)
 // estrutura de decisão do nivel do Heroi
 if (result <= 10 ){
     nivel = "Ferro"
